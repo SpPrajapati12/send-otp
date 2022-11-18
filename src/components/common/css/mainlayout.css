@@ -1,0 +1,6 @@
+.main_container_child {
+    width: 80%;
+    padding: 20px 20px;
+    display: flex;
+    flex-direction: column;
+}
